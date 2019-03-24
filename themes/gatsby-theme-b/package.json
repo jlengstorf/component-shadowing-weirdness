@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-theme-b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-theme-a": "*"
+  },
+  "devDependencies": {
+    "gatsby": "^2.2.9",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.2.9",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  }
+}
